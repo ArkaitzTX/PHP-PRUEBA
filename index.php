@@ -18,7 +18,7 @@
     // Datos de conexión a la base de datos
     $host = "localhost";
     $user = "root";
-    $password = "";
+    $password = "Inf041";
     $dbname = "usuario";
     
     // Crea la conexión
